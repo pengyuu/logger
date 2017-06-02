@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="builder-model-2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.0.0/bd45ddd08825b473b77ffca5e971a311949f09dc/builder-model-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.0.0/35c07dbf3453bc6a46e1b020a68f08095c47cba3/builder-model-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
